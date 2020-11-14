@@ -457,7 +457,6 @@ h3.heading:after {
 }
 .about p {
     font-size: 16px;
-    text-transform: capitalize;
     letter-spacing: .5px;
     margin: 1em 0;
 }

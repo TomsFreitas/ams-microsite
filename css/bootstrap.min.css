@@ -5,6 +5,14 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+.table {
+  width: 75%;
+  max-width: 100%;
+  margin-bottom: 20px;
+  margin-left: 10%;
+}
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -254,6 +262,7 @@ th {
   }
   .table {
     border-collapse: collapse !important;
+    
   }
   .table td,
   .table th {
@@ -2257,7 +2266,7 @@ th {
   text-align: left;
 }
 .table {
-  width: 100%;
+  
   max-width: 100%;
   margin-bottom: 20px;
 }
