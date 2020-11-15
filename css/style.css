@@ -486,7 +486,7 @@ h3.heading:after {
 .services-right-grid {
     text-align: center;
 }
-i.fa.fa-bolt, i.fa.fa-comment, i.fa.fa-globe,i.fa.fa-lightbulb-o,i.fa.fa-thumbs-up,i.fa.fa-asterisk{
+i.fa.fa-bolt, i.fa.fa-comment, i.fa.fa-globe,i.fa.fa-lightbulb-o,i.fa.fa-thumbs-up,i.fa.fa-asterisk,i.fa.fas-euro-sign, i.fa.fa-money{
     color: #ff6b61;
     font-size: 3em;
 }
